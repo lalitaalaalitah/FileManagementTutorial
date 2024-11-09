@@ -1,8 +1,8 @@
-title: A course for file management system.
-description: A course helping people create a standardized folder and file management system.
-baseurl: ""
-url: "https://lalitaalaalaitah.github.io/FileManagementTutorial"
 theme: jekyll-theme-cayman
 # remote_theme: pages-themes/cayman@v0.2.0
 # plugins:
 # - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: A course for file management system.
+description: A course helping people create a standardized folder and file management system.
+baseurl: ""
+url: "https://lalitaalaalaitah.github.io/FileManagementTutorial"
