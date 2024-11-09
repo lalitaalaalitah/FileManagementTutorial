@@ -4,14 +4,14 @@ Welcome to the **File Management Tutorial** repository! This repository is desig
 
 ## Table of Contents
 
-1. [Importance of File Management](01_importance_of_file_management.md)
-2. [Benefits of File Management](02_benefits_of_file_management.md)
-3. [Define Tree Structure for Files](03_define_tree_structure.md)
-4. [Examples of Tree Structure](04_examples_of_tree_structure.md)
-5. [What Name to Choose for Files](05_what_name_to_choose.md)
-6. [Gradually Make Names More Concise](06_gradually_more_cocise_names_for_subdirs.md)
-7. [Avoid Spaces or Special Characters](07_no_spaces_or_special_chars.md)
-8. [Adding Numbers to File and Folder Names](08_add_numbers.md)
+1. [Importance of File Management](./docs/01_importance_of_file_management.md)
+2. [Benefits of File Management](./docs/02_benefits_of_file_management.md)
+3. [Define Tree Structure for Files](./docs/03_define_tree_structure.md)
+4. [Examples of Tree Structure](./docs/04_examples_of_tree_structure.md)
+5. [What Name to Choose for Files](./docs/05_what_name_to_choose.md)
+6. [Gradually Make Names More Concise](./docs/06_gradually_more_cocise_names_for_subdirs.md)
+7. [Avoid Spaces or Special Characters](./docs/07_no_spaces_or_special_chars.md)
+8. [Adding Numbers to File and Folder Names](./docs/08_add_numbers.md)
 
 ## About
 
