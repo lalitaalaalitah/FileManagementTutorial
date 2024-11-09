@@ -38,6 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE.
 
 ## Contact
 
-For any inquiries or suggestions, feel free to open an issue in this repository or reach out to us at [contact@lalitaalaalitah.com](mailto:contact@lalitaalaalitah.com).
+For any inquiries or suggestions, feel free to open an issue in this repository or reach out to us at [contact@lalitaalaalitah.com](mailto:theowners@lalitaalaalitah.com).
 
 Happy learning and organizing!
